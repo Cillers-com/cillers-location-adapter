@@ -17,3 +17,5 @@ function CillersLocationAdapterHandler:header_filter(conf)
   end
 end
 
+return CillersLocationAdapterHandler
+
