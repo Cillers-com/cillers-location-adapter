@@ -1,5 +1,5 @@
 package = "cillers-location-adapter"
-version = "1.0.1-3"
+version = "1.0.3-1"
 source = {
   url = "git://github.com/Cillers-com/cillers-location-adapter.git",
   branch = "main"

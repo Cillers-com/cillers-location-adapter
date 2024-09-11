@@ -1,5 +1,5 @@
 local CillersLocationAdapterHandler = {
-  VERSION = "1.0.1",
+  VERSION = "1.0.3",
   PRIORITY = 1000,
 }
 

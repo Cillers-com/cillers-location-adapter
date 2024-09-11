@@ -5,7 +5,7 @@ return {
         type = "record",
         fields = {
           { external_domain = { type = "string", required = true } },
-          { external_basepath = { type = "string", default = "" } },
+          { external_basepath = { type = "string", default = "/", len_min = 1 } },
         },
       },
     },
